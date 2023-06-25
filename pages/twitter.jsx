@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import React from 'react';
-import twitchImg from '../public/assets/projects/gym.jpg';
+import twitchImg from '../public/assets/projects/twitter-clone.jpg';
 import { RiRadioButtonFill } from 'react-icons/ri';
 import Link from 'next/link';
 
@@ -17,8 +17,8 @@ const twitch = () => {
           alt='/'
         />
         <div className='absolute top-[70%] max-w-[1240px] w-full left-[50%] right-[50%] translate-x-[-50%] translate-y-[-50%] text-white z-10 p-2'>
-          <h2 className='py-2'> Gym Website </h2>
-          <h3>React / JavaScript / Material Ui</h3>
+          <h2 className='py-2'> Twitter Clone </h2>
+          <h3> Nextjs | Typescript | Tailwind | Prisma </h3>
         </div>
       </div>
 
@@ -27,29 +27,31 @@ const twitch = () => {
           <p>Project</p>
           <h2>Overview</h2>
           <p>
-            This appplication was built using NEXT.JS and is styled with
-            Tailwind CSS. The application is hosted statically using Vercel.
-            This is a mobile responsive recreation of Twitch.tv and features
-            Next/Auth.js for authentication. Users may choose to be
-            authenticated with either a Github account or a Google account. A
-            few features to note with this project are lazy loading images using
-            the Image component, built in routing, and Next/Auth Context.
+
+
+My project is an IMDB clone that has been built using the IMDB API and ReactJS. The aim of the project was to create a responsive and user-friendly platform that would allow users to search for and discover information about their favorite movies and TV shows.
+
+Using ReactJS, I was able to create a dynamic user interface that allows users to easily search for titles using a variety of filters, including genre, year, and keyword. The results are then displayed in a visually appealing and intuitive way, with detailed information about each title including cast, crew, ratings, and more.
+
+One of the key features of my IMDB clone is the ability for users to create and save their own watchlists, allowing them to keep track of titles they're interested in or want to watch later. Users can also leave ratings and reviews for movies and TV shows, providing valuable feedback for other users and helping to improve the overall experience.
+
+Overall, my IMDB clone provides a comprehensive and engaging way for users to explore the world of movies and TV shows, all while leveraging the power of the IMDB API and the flexibility of ReactJS to deliver an exceptional user experience.
           </p>
           <a
-            href='https://gymm-website.netlify.app/'
+            href='https://flitter16.vercel.app/'
             target='_blank'
             rel='noreferrer'
           >
             <button className='px-8 py-2 mt-4 mr-8'>Demo</button>
           </a>
           <a
-            href='https://github.com/harshitsahu16/Gym-app'
+            href='https://github.com/harshitsahu16/plitter'
             target='_blank'
             rel='noreferrer'
           >
+            
             <button className='px-8 py-2 mt-4'>Code</button>
           </a>
-          
 
         </div>
         <div className='col-span-4 md:col-span-1 shadow-xl shadow-gray-400 rounded-xl py-4'>
@@ -57,19 +59,19 @@ const twitch = () => {
             <p className='text-center font-bold pb-2'>Technologies</p>
             <div className='grid grid-cols-3 md:grid-cols-1'>
               <p className='text-gray-600 py-2 flex items-center'>
-                <RiRadioButtonFill className='pr-1' /> React Js
+                <RiRadioButtonFill className='pr-1' /> NextJs
               </p>
               <p className='text-gray-600 py-2 flex items-center'>
-                <RiRadioButtonFill className='pr-1' /> Tailwind
+                <RiRadioButtonFill className='pr-1' /> Typescript
               </p>
               <p className='text-gray-600 py-2 flex items-center'>
-                <RiRadioButtonFill className='pr-1' /> Javascript
+                <RiRadioButtonFill className='pr-1' /> TailwindCss
               </p>
               <p className='text-gray-600 py-2 flex items-center'>
-                <RiRadioButtonFill className='pr-1' /> Material UI
+                <RiRadioButtonFill className='pr-1' /> Prisma
               </p>
               <p className='text-gray-600 py-2 flex items-center'>
-                <RiRadioButtonFill className='pr-1' /> Fitness API
+                <RiRadioButtonFill className='pr-1' /> MongoDb
               </p>
             </div>
           </div>

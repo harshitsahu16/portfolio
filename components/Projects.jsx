@@ -7,6 +7,7 @@ import netflixImg from '../public/assets/projects/youtube.jpg'
 import twitchImg from '../public/assets/projects/gym.jpg'
 import ProjectItem from './ProjectItem';
 import weatherImg from '../public/assets/projects/weathers.jpg'
+import TwitterImg from '../public/assets/projects/twitter-clone.jpg';
 
 const Projects = () => {
   return (
@@ -41,6 +42,11 @@ const Projects = () => {
             title='Weather'
             backgroundImg={weatherImg}
             projectUrl='/weather'
+            />
+            <ProjectItem 
+            title='Twitter CLone'
+            backgroundImg={TwitterImg}
+            projectUrl='/twitter'
             />
             
         </div>
