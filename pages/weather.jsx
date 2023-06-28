@@ -27,15 +27,10 @@ const twitch = () => {
           <p>Project</p>
           <h2>Overview</h2>
           <p>
+          Introducing our Weather App, a feature-rich web application designed to provide you with instant weather updates for any city or country. Created using HTML, CSS, and JavaScript, our app seamlessly integrates with the Weather API to fetch real-time weather data and deliver accurate forecasts.
 
-
-My project is an IMDB clone that has been built using the IMDB API and ReactJS. The aim of the project was to create a responsive and user-friendly platform that would allow users to search for and discover information about their favorite movies and TV shows.
-
-Using ReactJS, I was able to create a dynamic user interface that allows users to easily search for titles using a variety of filters, including genre, year, and keyword. The results are then displayed in a visually appealing and intuitive way, with detailed information about each title including cast, crew, ratings, and more.
-
-One of the key features of my IMDB clone is the ability for users to create and save their own watchlists, allowing them to keep track of titles they're interested in or want to watch later. Users can also leave ratings and reviews for movies and TV shows, providing valuable feedback for other users and helping to improve the overall experience.
-
-Overall, my IMDB clone provides a comprehensive and engaging way for users to explore the world of movies and TV shows, all while leveraging the power of the IMDB API and the flexibility of ReactJS to deliver an exceptional user experience.
+With a user-friendly interface and intuitive design, our Weather App makes it effortless to search for the weather in any location around the globe. Simply enter the name of the city or country you want to know the weather for, and the app will instantly retrieve and display the current weather conditions.
+Visualize the weather conditions with stunning graphics and icons that represent various weather patterns. Whether it's a sunny day, rainy weather, or a snowstorm, our app visually represents the current weather in an engaging and easy-to-understand manner.
           </p>
           <a
             href='https://harshitsahu16.github.io/harshit-weather-app/'

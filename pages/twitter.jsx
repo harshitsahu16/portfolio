@@ -29,13 +29,21 @@ const twitch = () => {
           <p>
 
 
-My project is an IMDB clone that has been built using the IMDB API and ReactJS. The aim of the project was to create a responsive and user-friendly platform that would allow users to search for and discover information about their favorite movies and TV shows.
+          "Twitter Clone is a web application built using Next.js, Tailwind CSS, Prisma, and MongoDB. It aims to replicate the core functionality of the popular social media platform Twitter. The project allows users to sign up, create posts, follow other users, like posts, and engage in conversations through comments.
 
-Using ReactJS, I was able to create a dynamic user interface that allows users to easily search for titles using a variety of filters, including genre, year, and keyword. The results are then displayed in a visually appealing and intuitive way, with detailed information about each title including cast, crew, ratings, and more.
+With Next.js as the framework, the application provides server-side rendering for improved performance and SEO. The responsive and intuitive user interface is achieved using Tailwind CSS, making the application visually appealing and user-friendly across different devices.
 
-One of the key features of my IMDB clone is the ability for users to create and save their own watchlists, allowing them to keep track of titles they're interested in or want to watch later. Users can also leave ratings and reviews for movies and TV shows, providing valuable feedback for other users and helping to improve the overall experience.
+Prisma is utilized as the ORM (Object-Relational Mapping) tool to interact with the MongoDB database. It handles data modeling, querying, and migrations, providing a seamless integration between the application and the database.
 
-Overall, my IMDB clone provides a comprehensive and engaging way for users to explore the world of movies and TV shows, all while leveraging the power of the IMDB API and the flexibility of ReactJS to deliver an exceptional user experience.
+Key features of the Twitter Clone include:
+
+
+User Authentication: Users can create an account, log in, and log out securely.
+Post Creation: Users can compose and publish posts, sharing their thoughts and updates.
+Social Interactions: Users can follow other users, like posts, and view a personalized feed based on their followers.
+Commenting: Users can engage in conversations by commenting on posts.
+User Profiles: Each user has a profile page displaying their posts, followers, and following.
+The Twitter Clone project showcases the power of Next.js for building efficient and scalable web applications, the flexibility of Tailwind CSS for creating visually stunning UI, and the ease of working with Prisma and MongoDB for data management.
           </p>
           <a
             href='https://flitter16.vercel.app/'

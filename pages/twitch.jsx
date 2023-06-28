@@ -27,13 +27,11 @@ const twitch = () => {
           <p>Project</p>
           <h2>Overview</h2>
           <p>
-            This appplication was built using NEXT.JS and is styled with
-            Tailwind CSS. The application is hosted statically using Vercel.
-            This is a mobile responsive recreation of Twitch.tv and features
-            Next/Auth.js for authentication. Users may choose to be
-            authenticated with either a Github account or a Google account. A
-            few features to note with this project are lazy loading images using
-            the Image component, built in routing, and Next/Auth Context.
+          Welcome to our Gym Website, your ultimate resource for fitness enthusiasts! Powered by React.js and Material UI, our website offers a comprehensive collection of exercises designed to target specific body parts and help you achieve your fitness goals.
+
+With ExerciseDB integration through Rapid API, we provide an extensive database of exercises that covers all major muscle groups. Whether you're looking to tone your arms, strengthen your core, or sculpt your legs, we have the exercises you need. Each exercise is accompanied by an animated GIF, giving you a visual demonstration of proper form and technique.
+
+Our intuitive search functionality allows you to easily find exercises for a particular body part or muscle group. Simply enter the desired muscle or body part you wish to train, and our website will provide you with a curated list of exercises tailored to your needs. .
           </p>
           <a
             href='https://gymm-website.netlify.app/'
@@ -58,9 +56,6 @@ const twitch = () => {
             <div className='grid grid-cols-3 md:grid-cols-1'>
               <p className='text-gray-600 py-2 flex items-center'>
                 <RiRadioButtonFill className='pr-1' /> React Js
-              </p>
-              <p className='text-gray-600 py-2 flex items-center'>
-                <RiRadioButtonFill className='pr-1' /> Tailwind
               </p>
               <p className='text-gray-600 py-2 flex items-center'>
                 <RiRadioButtonFill className='pr-1' /> Javascript

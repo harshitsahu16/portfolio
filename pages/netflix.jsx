@@ -27,13 +27,11 @@ const netflix = () => {
           <p>Project</p>
           <h2>Overview</h2>
           <p>
-            I built this application in React JS and is hosted on GitHub pages.
-            This app features user authentication with firebase as well as the
-            firestore cloud storage database. This application is pulling movie
-            data from an the IMDB movie API and displaying different categories.
-            It features horizontal sliding and a featured selection. The
-            useContext hook is also being implemented for app-wide state
-            management.
+          YouTube Clone, a web application built with ReactJS and Material UI. With our YouTube Clone, users can enjoy a seamless video streaming experience similar to the popular video-sharing platform, YouTube.
+
+Explore a vast collection of videos across various genres, including music, entertainment, tutorials, and more. Our intuitive user interface and responsive design provide a visually appealing and user-friendly browsing experience.
+
+Discover trending videos, subscribe to your favorite channels, and receive notifications for new uploads. The YouTube Clone also offers personalized recommendations based on your viewing history and preferences, ensuring you never miss out on exciting content.With the power of Material UI, our YouTube Clone boasts a sleek and modern design, enhancing the overall user experience. The intuitive search feature allows users to find specific videos, channels, or topics of interest effortlessly.
           </p>
           <a
             href='https://github.com/harshitsahu16/youtube-2.0'
