@@ -9,7 +9,7 @@ import Github from '../public/assets/skills/github1.png';
 import Firebase from '../public/assets/skills/firebase.png';
 import NextJS from '../public/assets/skills/nextjs.png';
 import AWS from '../public/assets/skills/aws.png';
-import cr from '../public/assets/skills/c.png';
+import cr from '../public/assets/skills/mongoooo.png';
 import python from '../public/assets/skills/py.png';
 import node from '../public/assets/skills/node.png';
 import jav from '../public/assets/skills/java.png';
