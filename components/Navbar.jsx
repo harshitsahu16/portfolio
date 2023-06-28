@@ -116,13 +116,13 @@ const Navbar = () => {
                         <div className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:bg-blue-500 hover:scale-105 ease-in duration-300'>
                             <FaLinkedinIn />
                         </div>
-                        <div className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:bg-gray-200 hover:scale-105 ease-in duration-300'>
+                        <div className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:bg-gray-500 hover:scale-105 ease-in duration-300'>
                             <FaGithub />
                         </div>
-                        <div className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:bg-red-400 hover:scale-105 ease-in duration-300'>
+                        <div className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:bg-red-500 hover:scale-105 ease-in duration-300'>
                             < AiOutlineMail/>
                         </div>
-                        <div className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:bg-gray-500 hover:scale-105 ease-in duration-300'>
+                        <div className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:bg-gray-700 hover:scale-105 ease-in duration-300'>
                             <BsFillPersonLinesFill />
                         </div>
                     </div>

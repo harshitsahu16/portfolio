@@ -46,17 +46,17 @@ const Contact = () => {
               target='_blank'
               rel='noreferrer'
             >
-                <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:bg-gray-200 hover:scale-110 ease-in duration-300'>
+                <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:bg-gray-500 hover:scale-110 ease-in duration-300'>
                     <FaGithub />
                 </div>
                 </a>
                 <a target='_blank' href='mailto:harshitsahu160@gmail.com'>
-                <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:bg-red-400 hover:scale-110 ease-in duration-300'>
+                <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:bg-red-500 hover:scale-110 ease-in duration-300'>
                     <AiOutlineMail />
                 </div>
                 </a>
                 <a target='_blank' href="https://drive.google.com/file/d/12l0h2NW7T2sSCivri-t7ZC7n48gg5gfl/view?usp=share_link">
-                <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:bg-gray-500 hover:scale-110 ease-in duration-300'>
+                <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:bg-gray-700 hover:scale-110 ease-in duration-300'>
                     <BsFillPersonLinesFill />
                 </div>
                 </a>
