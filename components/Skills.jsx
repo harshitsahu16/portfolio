@@ -10,9 +10,10 @@ import Firebase from '../public/assets/skills/firebase.png';
 import NextJS from '../public/assets/skills/nextjs.png';
 import AWS from '../public/assets/skills/aws.png';
 import cr from '../public/assets/skills/mongoooo.png';
-import python from '../public/assets/skills/py.png';
+import python from '../public/assets/skills/pythonn.png';
 import node from '../public/assets/skills/node.png';
-import jav from '../public/assets/skills/java.png';
+import jav from '../public/assets/skills/javaaa.png';
+import mui from '../public/assets/skills/mui.png';
 
 const Skills = () => {
   return (
@@ -109,7 +110,7 @@ const Skills = () => {
                 <Image src={cr} width='64px' height='64px' alt='/' />
               </div>
               <div className='flex flex-col items-center justify-center'>
-                <h3> C </h3>
+                <h3> MongoDB </h3>
               </div>
             </div>
           </div>
@@ -140,6 +141,16 @@ const Skills = () => {
               </div>
               <div className='flex flex-col items-center justify-center'>
                 <h3> Node JS </h3>
+              </div>
+            </div>
+          </div>
+          <div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
+            <div className='grid grid-cols-2 gap-4 justify-center items-center'>
+              <div className='m-auto'>
+                <Image src={mui} width='64px' height='64px' alt='/' />
+              </div>
+              <div className='flex flex-col items-center justify-center'>
+                <h3> Material UI </h3>
               </div>
             </div>
           </div>
