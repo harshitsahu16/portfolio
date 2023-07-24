@@ -34,14 +34,14 @@ Explore a vast collection of videos across various genres, including music, ente
 Discover trending videos, subscribe to your favorite channels, and receive notifications for new uploads. The YouTube Clone also offers personalized recommendations based on your viewing history and preferences, ensuring you never miss out on exciting content.With the power of Material UI, our YouTube Clone boasts a sleek and modern design, enhancing the overall user experience. The intuitive search feature allows users to find specific videos, channels, or topics of interest effortlessly.
           </p>
           <a
-            href='https://github.com/harshitsahu16/youtube-2.0'
+            href='https://github.com/harshitsahu16/OCTANET_JULY-task-3'
             target='_blank'
             rel='noreferrer'
           >
             <button className='px-8 py-2 mt-4 mr-8'>Code</button>
           </a>
           <a
-            href='https://harshit-youtube2.netlify.app/'
+            href='https://buzztube.vercel.app/'
             target='_blank'
             rel='noreferrer'
           >

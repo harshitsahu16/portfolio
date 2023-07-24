@@ -56,7 +56,7 @@ const Contact = () => {
                 </div>
                 </a>
                 <a target='_blank' href="https://drive.google.com/file/d/12l0h2NW7T2sSCivri-t7ZC7n48gg5gfl/view?usp=share_link">
-                <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:bg-gray-700 hover:scale-110 ease-in duration-300'>
+                <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:bg-green-500 hover:scale-110 ease-in duration-300'>
                     <BsFillPersonLinesFill />
                 </div>
                 </a>

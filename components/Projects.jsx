@@ -8,6 +8,7 @@ import twitchImg from '../public/assets/projects/gym.jpg'
 import ProjectItem from './ProjectItem';
 import weatherImg from '../public/assets/projects/weathers.jpg'
 import TwitterImg from '../public/assets/projects/twitter-clone.jpg';
+import BuzzAi from '../public/assets/projects/buzzai.jpg';
 
 const Projects = () => {
   return (
@@ -24,7 +25,7 @@ const Projects = () => {
             projectUrl='/property'
             />
             <ProjectItem 
-            title='crypto Hunter'
+            title='Crypto Hunter'
             backgroundImg={cryptoImg}
             projectUrl='/crypto'
             />
@@ -44,9 +45,14 @@ const Projects = () => {
             projectUrl='/weather'
             />
             <ProjectItem 
-            title='Twitter CLone'
+            title='Twitter Clone'
             backgroundImg={TwitterImg}
             projectUrl='/twitter'
+            />
+            <ProjectItem 
+            title='Buzz Ai Bot'
+            backgroundImg={BuzzAi}
+            projectUrl='/buzzai'
             />
             
         </div>
