@@ -71,7 +71,7 @@ const Navbar = () => {
                 Home
               </li>
             </Link>
-            <Link href='/#about'>
+            <Link href='/about'>
               <li
                 className={`ml-7 text-lg uppercase ${
                   router.asPath === '/#about' ? 'text-[#5651e5]' : `text-${linkColor} hover:text-[#5651e5] transition`
@@ -80,7 +80,7 @@ const Navbar = () => {
                 About
               </li>
             </Link>
-            <Link href='/#skills'>
+            <Link href='/skills'>
               <li
                 className={`ml-7 text-lg uppercase ${
                   router.asPath === '/#skills' ? 'text-[#5651e5]' : `text-${linkColor} hover:text-[#5651e5] transition`
@@ -89,7 +89,7 @@ const Navbar = () => {
                 Skills
               </li>
             </Link>
-            <Link href='/#projects'>
+            <Link href='/projects'>
               <li
                 className={`ml-7 text-lg uppercase ${
                   router.asPath === '/#projects' ? 'text-[#5651e5]' : `text-${linkColor} hover:text-[#5651e5] transition`
@@ -98,7 +98,7 @@ const Navbar = () => {
                 Projects
               </li>
             </Link>
-            <Link href='/#contact'>
+            <Link href='/contact'>
               <li
                 className={`ml-7 text-lg uppercase ${
                   router.asPath === '/#contact' ? 'text-[#5651e5]' : `text-${linkColor} hover:text-[#5651e5] transition`
@@ -142,22 +142,22 @@ const Navbar = () => {
                   Home
                 </li>
               </Link>
-              <Link href='/#about'>
+              <Link href='/about'>
                 <li onClick={() => setNav(false)} className='py-4 text-sm'>
                   About
                 </li>
               </Link>
-              <Link href='/#skills'>
+              <Link href='/skills'>
                 <li onClick={() => setNav(false)} className='py-4 text-sm'>
                   Skills
                 </li>
               </Link>
-              <Link href='/#projects'>
+              <Link href='/projects'>
                 <li onClick={() => setNav(false)} className='py-4 text-sm'>
                   Projects
                 </li>
               </Link>
-              <Link href='/#contact'>
+              <Link href='/contact'>
                 <li onClick={() => setNav(false)} className='py-4 text-sm'>
                   Contact
                 </li>
